@@ -6,10 +6,19 @@
     <description>Recent content on Kazama Kazuki / @_naginoyu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 29 Nov 2019 10:18:42 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 13:26:01 +0900</lastBuildDate>
     
 	<atom:link href="https://naginoyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>wind/ow</title>
+      <link>https://naginoyu.github.io/works/wind_ow/</link>
+      <pubDate>Fri, 29 Nov 2019 13:26:01 +0900</pubDate>
+      
+      <guid>https://naginoyu.github.io/works/wind_ow/</guid>
+      <description>wind/ow ##Video</description>
+    </item>
     
     <item>
       <title>New TouchDesigner nanoKONTROL2 MIDI Mapping</title>
