@@ -1,0 +1,17 @@
+---
+title: "New TouchDesigner nanoKONTROL2 MIDI Mapping"
+date: 2019-11-29T10:18:42+09:00
+draft: false
+---
+
+#TD_nanoKONTROL2_UI_MIDI_Map
+
+Touch designerでKORG社のnanoKONTROL2のMIDI MapをマッピングしたUIを開発しました。
+
+
+トグルやスイッチの切り替え、ユーザーインターフェース上の文字列の変更、値の変更を"Table DAT"にて行えるようにしています。
+
+##使用映像
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTeVb8sXUkw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+使用ツール：Touch designer
