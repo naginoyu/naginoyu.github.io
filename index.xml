@@ -17,20 +17,23 @@
       <pubDate>Fri, 29 Nov 2019 17:03:25 +0900</pubDate>
       
       <guid>https://naginoyu.github.io/works/hyper_bunkasai_vol1/</guid>
-      <description>リアルタイムレンダリング限定のVJイベント「Hyper Bunkasai / ハイパー文化祭 Vol.1」を2019年11月22日に新宿azitoにて開催しました。</description>
+      <description>  リアルタイムレンダリング限定のVJイベント「Hyper Bunkasai / ハイパー文化祭 Vol.1」を2019年11月22日に新宿azitoにて開催しました。
+Video   担当 Direction,Management.  オーガナイザー 制作進行 ソフトウェア構成、機材構成の選定
+Development DJ NiSHiKiのビジュアライゼーションを担当しました。
+ VJ naginoyu として出演しました。
+  </description>
     </item>
     
     <item>
-      <title>wind/ow</title>
+      <title>wind / ow</title>
       <link>https://naginoyu.github.io/works/wind_ow/</link>
       <pubDate>Fri, 29 Nov 2019 13:26:01 +0900</pubDate>
       
       <guid>https://naginoyu.github.io/works/wind_ow/</guid>
       <description>天気と季節のビジュアルをTouch designerで生成し、トレーシングペーパーにマッピングを行ったインスタレーションを東京工芸大学中野キャンパス1号館メディアラウンジにて2019年11月11日~15日まで展示しました。
-      Direction,Management.
-展示に対応した基幹システムの構築をTouch designerで実装しました。
-ソフトウェア構成、機材構成の選定を行いました。
-Video   使用ツール：Touch designer</description>
+Video         担当 Direction,Management.  制作進行 ソフトウェア構成、機材構成の選定
+Development 展示に対応した基幹システムの構築をTouch designerで実装しました。
+  使用ツール：Touch designer</description>
     </item>
     
     <item>
