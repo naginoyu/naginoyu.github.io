@@ -6,10 +6,21 @@
     <description>Recent content in Works on Kazama Kazuki / @_naginoyu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 29 Nov 2019 17:03:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2019 09:46:57 +0900</lastBuildDate>
     
 	<atom:link href="https://naginoyu.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exhibition Authoring Td System</title>
+      <link>https://naginoyu.github.io/works/exhibition-authoring-td-system/</link>
+      <pubDate>Fri, 13 Dec 2019 09:46:57 +0900</pubDate>
+      
+      <guid>https://naginoyu.github.io/works/exhibition-authoring-td-system/</guid>
+      <description>TouchDesignerでの展示をサポートするシステムを開発しました。
+Development  システムを立ち上げるスケジュールを指定 フレームレートの表示 プロジェクターへの出力表示、終了、Window COMPのプロパティー表示、performモードへの設定画面表示 システム立ち上げ時にてOSCを送信  使用ツール：Touch designer
+Download</description>
+    </item>
     
     <item>
       <title>Hyper Bunkasai / ハイパー文化祭 Vol.1</title>
