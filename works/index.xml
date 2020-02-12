@@ -6,10 +6,21 @@
     <description>Recent content in Works on Kazama Kazuki / @_naginoyu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 13 Dec 2019 09:46:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 20:07:31 +0900</lastBuildDate>
     
 	<atom:link href="https://naginoyu.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LAZY POP</title>
+      <link>https://naginoyu.github.io/works/lazy_pop/</link>
+      <pubDate>Wed, 12 Feb 2020 20:07:31 +0900</pubDate>
+      
+      <guid>https://naginoyu.github.io/works/lazy_pop/</guid>
+      <description>  インスタレーションを東京工芸大学中野キャンパス1号館にて2020年1月14日~16日まで展示しました。
+Video   Software : Touch Designer, Processing Library : OpenCV（Python） Hardware : Kinect v1
+担当 Direction,Management  制作進行 ソフトウェア構成、機材構成  Development  展示に対応した基幹システムの構築をTouch Designerで実装しました。 OpenCVによる人物解析を実装しました。  </description>
+    </item>
     
     <item>
       <title>Exhibition Authoring Td System</title>
