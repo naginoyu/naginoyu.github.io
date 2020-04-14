@@ -18,13 +18,7 @@
       
       <guid>https://naginoyu.github.io/works/lazy_pop/</guid>
       <description>  インスタレーションを東京工芸大学中野キャンパス1号館にて2020年1月14日~16日まで展示しました。
-Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成
-Development 展示に対応した基幹システムの構築をTouch Designerで実装しました。
- OpenCVによる人物解析を実装しました。
-Information Software : TouchDesigner, Processing
- Library : OpenCV（Python）
- Hardware : Kinect v1
-  </description>
+Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成  Development  展示に対応した基幹システムの構築をTouch Designerで実装しました。 OpenCVによる人物解析を実装しました。  Information  Software : TouchDesigner, Processing Library : OpenCV（Python） Hardware : Kinect v1  </description>
     </item>
     
     <item>
@@ -45,10 +39,7 @@ Information  Software : TouchDesigner  </description>
       
       <guid>https://naginoyu.github.io/works/hyper_bunkasai_vol1/</guid>
       <description>  リアルタイムレンダリング限定のVJイベント「Hyper Bunkasai / ハイパー文化祭 Vol.1」を2019年11月22日に新宿azitoにて開催しました。
-Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定
-Development DJ NiSHiKiのビジュアライゼーションを担当しました。
- VJ naginoyu として出演しました。
-  </description>
+Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定  Development  DJ NiSHiKiのビジュアライゼーションを担当しました。 VJ naginoyu として出演しました。  </description>
     </item>
     
     <item>
@@ -58,10 +49,7 @@ Development DJ NiSHiKiのビジュアライゼーションを担当しました�
       
       <guid>https://naginoyu.github.io/works/wind_ow/</guid>
       <description>  天気と季節のビジュアルをTouch designerで生成し、トレーシングペーパーにマッピングを行ったインスタレーションを東京工芸大学中野キャンパス1号館メディアラウンジにて2019年11月11日~15日まで展示しました。
-Video         担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定
-Development 展示に対応した基幹システムの構築をTouch designerで実装しました。
-Information Software : TouchDesigner
-  </description>
+Video         担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定  Development  展示に対応した基幹システムの構築をTouch designerで実装しました。  Information  Software : TouchDesigner  </description>
     </item>
     
     <item>
@@ -85,13 +73,7 @@ Information  Software : TouchDesigner  </description>
       <description>  東京工芸大学芸術学部で実施されたオープンキャンパス2019にて発表した作品です。
 来場者の着ている服の色を検知することで、ビジュアルの色が同じ色に変化し色に合った花の名前と花言葉を提案する作品です。
 身に着けている服から、今まで気付かなかった「あなたらしさ」を読み取り花言葉を贈ります。
-Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定
-Development 展示に対応した基幹システムの構築をTouchDesignerで実装しました。
- 色検知するためのシステムを実装しました。
-Information Software : TouchDesigner
- Hardware : Arduino
- Sensor : 赤外線距離センサ（GP2Y0A21YK）
-  </description>
+Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定  Development  展示に対応した基幹システムの構築をTouchDesignerで実装しました。 色検知するためのシステムを実装しました。  Information  Software : TouchDesigner Hardware : Arduino Sensor : 赤外線距離センサ（GP2Y0A21YK）  </description>
     </item>
     
   </channel>
