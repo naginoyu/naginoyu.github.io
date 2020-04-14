@@ -6,28 +6,10 @@
     <description>Recent content on Kazama Kazuki / @_naginoyu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 14 Apr 2020 20:36:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 12:40:19 +0900</lastBuildDate>
     
 	<atom:link href="https://naginoyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Flowers tell you. / 花があなたを語る</title>
-      <link>https://naginoyu.github.io/works/flowers_tell_you/</link>
-      <pubDate>Tue, 14 Apr 2020 20:36:16 +0900</pubDate>
-      
-      <guid>https://naginoyu.github.io/works/flowers_tell_you/</guid>
-      <description>  東京工芸大学芸術学部で実施されたオープンキャンパス2019にて発表した作品です。
-来場者の着ている服の色を検知することで、ビジュアルの色が同じ色に変化し色に合った花の名前と花言葉を提案する作品です。
-身に着けている服から、今まで気付かなかった「あなたらしさ」を読み取り花言葉を贈ります。
-Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定
-Development 展示に対応した基幹システムの構築をTouchDesignerで実装しました。
- 色検知するためのシステムを実装しました。
-Information Software : TouchDesigner
- Hardware : Arduino
- Sensor : 赤外線距離センサ（GP2Y0A21YK）
-  </description>
-    </item>
     
     <item>
       <title>About</title>
@@ -105,6 +87,24 @@ Information Software : TouchDesigner
 トグルやスイッチの切り替え、ユーザーインターフェース上の文字列の変更、値の変更を&amp;rdquo;Table DAT&amp;rdquo;にて行えるようにしています。
 Video   Download
 Information  Software : TouchDesigner  </description>
+    </item>
+    
+    <item>
+      <title>Flowers tell you. / 花があなたを語る</title>
+      <link>https://naginoyu.github.io/works/flowers_tell_you/</link>
+      <pubDate>Tue, 11 Jun 2019 20:36:16 +0900</pubDate>
+      
+      <guid>https://naginoyu.github.io/works/flowers_tell_you/</guid>
+      <description>  東京工芸大学芸術学部で実施されたオープンキャンパス2019にて発表した作品です。
+来場者の着ている服の色を検知することで、ビジュアルの色が同じ色に変化し色に合った花の名前と花言葉を提案する作品です。
+身に着けている服から、今まで気付かなかった「あなたらしさ」を読み取り花言葉を贈ります。
+Video   担当 Direction,Management  制作進行 ソフトウェア構成、機材構成の選定
+Development 展示に対応した基幹システムの構築をTouchDesignerで実装しました。
+ 色検知するためのシステムを実装しました。
+Information Software : TouchDesigner
+ Hardware : Arduino
+ Sensor : 赤外線距離センサ（GP2Y0A21YK）
+  </description>
     </item>
     
   </channel>
